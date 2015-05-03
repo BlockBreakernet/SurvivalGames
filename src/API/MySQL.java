@@ -8,10 +8,10 @@ import java.sql.Statement;
 
 public class MySQL {
     
-    private String HOST = "";
-    private String DATABASE = "";
-    private String USER = "";
-    private String PASSWORD = "";
+    private String HOST = ""; //Host muss unten noch eingetragen werden
+    private String DATABASE = ""; //Ebenfalls die Database
+    private String USER = ""; // Der Username
+    private String PASSWORD = ""; //und das Passwort
    
     private Connection con;
    
