@@ -11,7 +11,7 @@ public class MySQL {
     private String HOST = ""; //Host muss unten noch eingetragen werden
     private String DATABASE = ""; //Ebenfalls die Database
     private String USER = ""; // Der Username
-    private String PASSWORD = ""; //und das Passwort
+    private String PASSWORD = ""; //und das Passwort eintragen :)
    
     private Connection con;
    
